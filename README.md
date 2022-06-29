@@ -1,4 +1,4 @@
-<h1 align="center">( ﾉ ﾟｰﾟ)ﾉ <⚒️🛠️🔨/h1>
+<h1 align="center">( ﾉ ﾟｰﾟ)ﾉ < 🛠️/h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamhassaan" alt="iamhassaan" /> </p>
 
