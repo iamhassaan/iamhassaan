@@ -1,4 +1,4 @@
-<h1 align="center"> Championing open source Data Engineering (⌐■_■)ヾ(⌐■_■)ノ♪  </h1>
+<h1 align="center"> Promoting open source Data Engineering ( ﾉ ﾟｰﾟ)ﾉ </h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamhassaan" alt="iamhassaan" /> </p>
 
